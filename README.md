@@ -1,8 +1,8 @@
 # **Gear-interior**
 
-## 👉🏻[**Link to Gear-interior**](https://#)💫 
+## 👉🏻[**Link to Gear-interior**](https://gear-interior.vercel.app/)💫 
 
-[![img](https://drive.google.com/uc?export=view&id=11_EE7OXQ2lnLUW7Z_w9nbNntNBHaungQ)](https://#)
+[![img](https://drive.google.com/uc?export=view&id=11_EE7OXQ2lnLUW7Z_w9nbNntNBHaungQ)](https://gear-interior.vercel.app/)
 
  
 Gear-interior เป็นProject Frontend ที่เขียนด้วย React, Tailwind
